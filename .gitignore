@@ -1,0 +1,9 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and sensitive files
+.env
+.env.*
+*.log
